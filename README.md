@@ -1,5 +1,6 @@
 # Echo Web
 [![Slack](https://img.shields.io/badge/slack-join-D60051.svg)](https://hbchen.slack.com/messages/CE6S4HJN6)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2Fecho-web.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2Fecho-web?ref=badge_shield)
 
 Go web framework Echo example. <br/>`master`为`v4`版本，`v3`切换到`v3`分支。
 > Requires
@@ -354,3 +355,7 @@ $ pprof -http=[host]:[port] [main_binary] profile.pb.gz
 $ pprof -http=localhost:8080 --alloc_space http://echo.www.hbchen.com/debug/pprof/heap
 ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2Fecho-web.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2Fecho-web?ref=badge_large)
